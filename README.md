@@ -84,6 +84,15 @@ The interactive Power BI dashboard provides an overview of retail sales, profita
 
 ![Retail Business Intelligence Dashboard](images/dashboard_screenshot.png)
 
+
+## Business Insights Report
+
+Detailed analysis of sales performance, regional trends, customer segments, product profitability, discount patterns, and business recommendations.
+
+[View Business Insights Report](reports/Retail_Business_Insights_Report.md)
+
+
+
 ## Skills Demonstrated
 
 - Data Cleaning and Preprocessing
