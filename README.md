@@ -80,9 +80,9 @@ Retail-Business-Intelligence/
 
 ## Dashboard
 
-The Power BI dashboard provides an overview of retail sales, profitability, regional performance, product categories, customer segments, and shipping trends.
+The interactive Power BI dashboard provides an overview of retail sales, profitability, regional performance, product categories, customer segments, and shipping trends.
 
-*Dashboard screenshot will be added here.*
+![Retail Business Intelligence Dashboard](images/dashboard_screenshot.png)
 
 ## Skills Demonstrated
 
